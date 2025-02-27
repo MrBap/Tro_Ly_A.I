@@ -44,14 +44,14 @@ st.markdown(
             padding: 10px;
             border-radius: 10px;
             max-width: 75%;
-            background: none; /* Màu trong suốt */
+            background: none;
             text-align: left;
         }
         .user {
             padding: 10px;
             border-radius: 10px;
             max-width: 75%;
-            background-color: #f0f2f5; /* Màu xanh nhạt cho tin nhắn người hỏi */
+            background-color: #f0f2f5;
             text-align: right;
             margin-left: auto;
         }
@@ -61,16 +61,33 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Hiển thị lịch sử tin nhắn (loại bỏ system để tránh hiển thị)
+# Hiển thị lịch sử tin nhắn
 for message in st.session_state.messages:
     if message["role"] == "assistant":
         st.markdown(f'<div class="assistant">{message["content"]}</div>', unsafe_allow_html=True)
     elif message["role"] == "user":
         st.markdown(f'<div class="user">{message["content"]}</div>', unsafe_allow_html=True)
 
+# Tạo nút ghi âm và JavaScript để nhận diện giọng nói
+st.markdown(
+    """
+    <script>
+    function startDictation() {
+        var recognition = new webkitSpeechRecognition();
+        recognition.lang = "vi-VN";
+        recognition.onresult = function(event) {
+            document.getElementById("chat_input").value = event.results[0][0].transcript;
+        };
+        recognition.start();
+    }
+    </script>
+    <button onclick="startDictation()">🎙️ Ghi âm</button>
+    """,
+    unsafe_allow_html=True
+)
+
 # Ô nhập liệu cho người dùng
 if prompt := st.chat_input("Bạn nhập nội dung cần trao đổi ở đây nhé?"):
-    # Lưu tin nhắn người dùng vào session
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.markdown(f'<div class="user">{prompt}</div>', unsafe_allow_html=True)
 
@@ -82,13 +99,9 @@ if prompt := st.chat_input("Bạn nhập nội dung cần trao đổi ở đây 
         stream=True,
     )
 
-    # Ghi lại phản hồi của trợ lý vào biến
     for chunk in stream:
         if chunk.choices:
             response += chunk.choices[0].delta.content or ""
 
-    # Hiển thị phản hồi của trợ lý
     st.markdown(f'<div class="assistant">{response}</div>', unsafe_allow_html=True)
-
-    # Cập nhật lịch sử tin nhắn trong session
     st.session_state.messages.append({"role": "assistant", "content": response})
