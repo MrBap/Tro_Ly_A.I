@@ -181,7 +181,8 @@ Hình thức: Chính quy VB2
 Thời gian đào tạo: 2 năm
 Đối tượng: Tốt nghiệp Cao đẳng nhóm ngành sức khỏe và các nhóm ngành khác.
 Hồ sơ tuyển sinh:
-- Bằng tốt nghiệp; Học bạ THPT hoặc tương đương.
+- Bằng tốt nghiệp THPT hoặc tương đương; 
+- Học bạ THPT hoặc tương đương.
 - Giấy khai sinh.
 - Giấy chứng nhận ưu tiên (nếu có).
 - Căn cước công dân.
