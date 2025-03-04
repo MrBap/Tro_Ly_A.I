@@ -120,7 +120,7 @@ IV. LỆ PHÍ, HỒ SƠ TUYỂN SINH VÀ NƠI NHẬN
 1.2. Bản sao công chứng:
 - Bằng tốt nghiệp hoặc Giấy chứng nhận tốt nghiệp THCS; Học bạ THCS đối với học sinh tốt nghiệp THCS.
 - Bằng tốt nghiệp hoặc Giấy chứng nhận tốt nghiệp THPT; Học bạ THPT đối với học sinh tốt nghiệp THPT.
-Bằng tốt nghiệp; Học bạ THPT đối với các ngành liên thông và văn bằng 2.
+- Bằng tốt nghiệp; Học bạ THPT khi là hồ sơ các ngành hệ liên thông và văn bằng 2.
 - Giấy khai sinh.
 - Giấy chứng nhận ưu tiên (nếu có).
 - Căn cước công dân.
@@ -164,7 +164,13 @@ Tổng hợp các năng lực của ngành:
 Năng lực cơ bản (chung): Kiến thức chính trị, pháp luật, tin học, ngoại ngữ, làm việc nhóm, giao tiếp.
 Năng lực cốt lõi (chuyên môn): Cấp phát, bán, tư vấn, hướng dẫn sử dụng thuốc, bào chế, kiểm nghiệm, đảm bảo chất lượng, cung ứng thuốc, quản lý hồ sơ.
 Năng lực nâng cao: Phân tích đơn thuốc, theo dõi sử dụng thuốc, kiểm soát quy trình sản xuất, quản lý quầy thuốc/kho thuốc, xử lý thuốc kém chất lượng.
-Hồ sơ tuyển sinh: Liệt kê các giấy tờ cần thiết như phiếu đăng ký, bản sao công chứng bằng cấp, học bạ, bằng tốt nghiệp THPT, giấy khai sinh, CCCD, ảnh, lệ phí xét tuyển.
+Hồ sơ tuyển sinh:
+- Bằng tốt nghiệp; Học bạ THPT hoặc tương đương.
+- Giấy khai sinh.
+- Giấy chứng nhận ưu tiên (nếu có).
+- Căn cước công dân.
+- 02 (hai) ảnh 3x4 và 2 ảnh 4x6 (ghi họ tên, ngày tháng năm sinh ở mặt sau).
+- Lệ phí: 30.000 đồng/hồ sơ.
 B. Hệ Văn Bằng 2 (Tốt Nghiệp Cao Đẳng Nhóm Ngành Sức Khỏe/Khác)
 
 Thông tin chung:
@@ -174,6 +180,13 @@ Trình độ: Cao đẳng
 Hình thức: Chính quy VB2
 Thời gian đào tạo: 2 năm
 Đối tượng: Tốt nghiệp Cao đẳng nhóm ngành sức khỏe và các nhóm ngành khác.
+Hồ sơ tuyển sinh:
+- Bằng tốt nghiệp; Học bạ THPT hoặc tương đương.
+- Giấy khai sinh.
+- Giấy chứng nhận ưu tiên (nếu có).
+- Căn cước công dân.
+- 02 (hai) ảnh 3x4 và 2 ảnh 4x6 (ghi họ tên, ngày tháng năm sinh ở mặt sau).
+- Lệ phí: 30.000 đồng/hồ sơ.
 Nội dung chương trình: Tương tự như hệ liên thông, nhưng có sự điều chỉnh về thời gian và khối lượng kiến thức để phù hợp với đối tượng đã có bằng Cao đẳng.
 Điểm khác biệt chính:
 Khối lượng kiến thức toàn khóa: 1845 giờ/ 86 tín chỉ
