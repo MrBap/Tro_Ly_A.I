@@ -42,7 +42,6 @@ Dược: Mã ngành 5720201, chỉ tiêu 70
 Hộ sinh: Mã ngành 5720303, chỉ tiêu 70
 Kỹ thuật xét nghiệm: Mã ngành 5720602, chỉ tiêu 35
 Tổng cộng có 750 chỉ tiêu cho hệ trung cấp
-
 3. Học phí: Theo Nghị định số 81/2021/NĐ-CP ngày 27/8/2021 của Chính phủ.
 4. Đối tượng, phương thức tuyển sinh
 4.1. Trình độ cao đẳng
@@ -131,91 +130,87 @@ IV. LỆ PHÍ, HỒ SƠ TUYỂN SINH VÀ NƠI NHẬN
 4. Thông tin hỗ trợ để giải đáp thắc mắc:
 -  Website trường: http://cdbp.edu.vn; điện thoại: 02713.881.236; 02713.691.007.
 - Thông tin hỗ trợ để giải đáp thắc mắc: cô Nguyễn Thị Tâm, di động: 0974.277.841; thầy Nguyễn Quỳnh Hồng, di động: 0986067954, di động: 0987.338.630; cô Phạm Thị Trang, di động: 0987.168.096./.
-I. Chương Trình Đào Tạo Cao Đẳng Dược
-
-A. Hệ Liên Thông (Từ Trung Cấp Dược)
-
-Thông tin chung:
-Tên ngành: Dược
-Mã ngành: 6720201
-Trình độ: Cao đẳng
-Hình thức: Vừa làm vừa học
-Thời gian đào tạo: 1.5 năm (3 học kỳ)
-Đối tượng: Tốt nghiệp Trung cấp Dược
-Giới thiệu ngành:
-Ngành Dược liên quan trực tiếp đến sức khỏe con người, với công việc được thực hiện tại nhiều địa điểm khác nhau như phòng thí nghiệm, công ty dược, nhà thuốc, bệnh viện...
-"Nghề Dược trình độ cao đẳng gồm 5 lĩnh vực: Đảm bảo và kiểm tra chất lượng thuốc; Sản xuất, pha chế thuốc; Bảo quản thuốc; Quản lý và cung ứng thuốc; Dược bệnh viện..."
-Đề cập đến 10 vị trí việc làm phổ biến sau khi tốt nghiệp, bao gồm kiểm nghiệm, đảm bảo chất lượng, bán lẻ thuốc, chủ quầy thuốc, kho dược, marketing dược, công tác dược tại cơ sở y tế.
-Nhấn mạnh tầm quan trọng của sự tỉ mỉ, chính xác, thận trọng, trung thực và tuân thủ đạo đức nghề nghiệp.
-Mục tiêu đào tạo:
-Mục tiêu chung: Đào tạo Dược sĩ có phẩm chất chính trị, đạo đức, sức khỏe tốt, kiến thức chuyên môn và kỹ năng nghề nghiệp cơ bản.
-Mục tiêu cụ thể:Kiến thức: Nắm vững kiến thức về Mác-Lênin, Tư tưởng Hồ Chí Minh, luật pháp, vi sinh, giải phẫu sinh lý, dược động học, dược liệu, quy trình sản xuất thuốc, quản lý chất lượng, các nguyên tắc GMP, GSP, GPP, GLP...
-Kỹ năng: Giao tiếp hiệu quả, hướng dẫn sử dụng thuốc an toàn, sản xuất/pha chế thuốc theo tiêu chuẩn GMP, kiểm nghiệm thuốc, quản lý kho/quầy thuốc, lập kế hoạch kinh doanh, thu thập và báo cáo ADR...
-Mức độ tự chủ và trách nhiệm: Tuân thủ các quy trình, quy định, chịu trách nhiệm về chất lượng thuốc, có khả năng làm việc độc lập/nhóm, tận tụy với sự nghiệp chăm sóc sức khỏe.
-Vị trí việc làm sau tốt nghiệp:
-Liệt kê các vị trí như kiểm nghiệm, đảm bảo chất lượng, bán lẻ thuốc, kho dược, kinh doanh dược phẩm, sản xuất thuốc, công tác dược tại cơ sở y tế.
-Khối lượng kiến thức và thời gian học:
-1515 giờ/ 69 tín chỉ, bao gồm cả lý thuyết và thực hành/thực tập.
-Tổng hợp các năng lực của ngành:
-Năng lực cơ bản (chung): Kiến thức chính trị, pháp luật, tin học, ngoại ngữ, làm việc nhóm, giao tiếp.
-Năng lực cốt lõi (chuyên môn): Cấp phát, bán, tư vấn, hướng dẫn sử dụng thuốc, bào chế, kiểm nghiệm, đảm bảo chất lượng, cung ứng thuốc, quản lý hồ sơ.
-Năng lực nâng cao: Phân tích đơn thuốc, theo dõi sử dụng thuốc, kiểm soát quy trình sản xuất, quản lý quầy thuốc/kho thuốc, xử lý thuốc kém chất lượng.
-Hồ sơ tuyển sinh:
-- Bằng tốt nghiệp; Học bạ THPT hoặc tương đương.
-- Giấy khai sinh.
-- Giấy chứng nhận ưu tiên (nếu có).
-- Căn cước công dân.
-- 02 (hai) ảnh 3x4 và 2 ảnh 4x6 (ghi họ tên, ngày tháng năm sinh ở mặt sau).
-- Lệ phí: 30.000 đồng/hồ sơ.
-B. Hệ Văn Bằng 2 (Tốt Nghiệp Cao Đẳng Nhóm Ngành Sức Khỏe/Khác)
-
-Thông tin chung:
-Tên ngành: Dược
-Mã ngành: 6720401
-Trình độ: Cao đẳng
-Hình thức: Chính quy VB2
+CHƯƠNG TRÌNH ĐÀO TẠO NGÀNH DƯỢC HỆ LIÊN THÔNG
+1.	Thông tin chung
+Tên ngành, nghề: DƯỢC
+Mã ngành, nghề: 6720201
+Trình độ đào tạo: Cao đẳng
+Hình thức đào tạo: Vừa làm vừa học
+Đối tượng tuyển sinh: Tốt nghiệp Trung cấp Dược
+Thời gian đào tạo: 1,5 năm (3 học kỳ)
+2.	Vị trí việc làm sau khi tốt nghiệp
+	Sau khi tốt nghiệp người học có năng lực đáp ứng các yêu cầu tại các vị trí việc làm của ngành, nghề bao gồm: 
+-	Kiểm nghiệm thuốc - mỹ phẩm - thực phẩm. 
+-	Đảm bảo chất lượng. 
+-	Bán lẻ thuốc. 
+-	Thực hiện công tác kho dược và vật tư y tế. 
+-	Thủ kho dược và vật tư y tế. 
+-	Kinh doanh dược phẩm. 
+-	Sản xuất thuốc. 
+-	Thực hiện công tác dược tại cơ sở y tế. 
+3.	Hồ sơ tuyển sinh:
+-	Phiếu đăng ký xét tuyển
+o	Bản sao công chứng:
+o	Bằng tốt nghiệp THPT và học bạ THPT
+o	Bằng tốt nghiệp và phiếu điểm Trung cấp Dược
+o	Giấy khai sinh
+o	Căn cước công dân
+o	Giấy chứng nhận ưu tiên (nếu có)
+-	02 ảnh 3x4 và 02 ảnh 4x6 (ghi họ tên ngày tháng năm sinh ở mặt sau)
+-	Lệ phí xét tuyển: 30.000 đ (ba mươi ngàn đồng)/ hồ sơ
+CHƯƠNG TRÌNH ĐÀO TẠO DƯỢC CAO ĐẲNG HỆ VĂN BẰNG 2
+1.	Thông tin chung
+Tên ngành, nghề: DƯỢC
+Mã ngành, nghề: 6720401
+Trình độ đào tạo: Cao đẳng
+Hình thức đào tạo: Chính quy VB2
+Đối tượng tuyển sinh: tốt nghiệp Cao đẳng nhóm ngành sức khỏe và các nhóm ngành khác
 Thời gian đào tạo: 2 năm
-Đối tượng: Tốt nghiệp Cao đẳng nhóm ngành sức khỏe và các nhóm ngành khác.
-Hồ sơ tuyển sinh:
-- Bằng tốt nghiệp THPT hoặc tương đương; 
-- Học bạ THPT hoặc tương đương.
-- Giấy khai sinh.
-- Giấy chứng nhận ưu tiên (nếu có).
-- Căn cước công dân.
-- 02 (hai) ảnh 3x4 và 2 ảnh 4x6 (ghi họ tên, ngày tháng năm sinh ở mặt sau).
-- Lệ phí: 30.000 đồng/hồ sơ.
-Nội dung chương trình: Tương tự như hệ liên thông, nhưng có sự điều chỉnh về thời gian và khối lượng kiến thức để phù hợp với đối tượng đã có bằng Cao đẳng.
-Điểm khác biệt chính:
-Khối lượng kiến thức toàn khóa: 1845 giờ/ 86 tín chỉ
-Khối lượng học tập các môn học chung: 0 giờ/ 0 tín chỉ (chuyển điểm từ văn bằng 1)
-II. Chương Trình Đào Tạo Y Sĩ Trung Cấp (Hệ Văn Bằng 2)
-
-Thông tin chung:
-Tên ngành: Y SĨ ĐA KHOA
-Mã ngành: 5720101
-Trình độ: Trung cấp
-Hình thức: Liên thông (thực tế là văn bằng 2)
-Thời gian đào tạo: 12 tháng (nhóm ngành sức khỏe), 15 tháng (ngoài nhóm ngành sức khỏe)
-Đối tượng: Tốt nghiệp trình độ Trung cấp chuyên nghiệp trở lên.
-Giới thiệu ngành:
-Y sĩ Đa khoa là nhân viên y tế không thể thiếu tại các bệnh viện, phòng khám, có vai trò hỗ trợ bác sĩ trong thăm khám, chữa bệnh, chăm sóc người bệnh.
-"Y sĩ Đa khoa là người có vai trò quan trọng trong việc cung cấp các dịch vụ Y tế tổng quát và chăm sóc sức khỏe cơ bản cho cộng đồng."
-Mục tiêu đào tạo:
-Mục tiêu chung: Đào tạo Y sĩ có kiến thức, kỹ năng thăm khám, chữa bệnh thông thường, phát hiện và xử trí cấp cứu ban đầu, quản lý chương trình y tế quốc gia, quản lý trạm y tế xã.
-Mục tiêu cụ thể:Kiến thức: Nắm vững kiến thức về Mác-Lênin, Tư tưởng Hồ Chí Minh, luật pháp, cấu tạo cơ thể người, tác động của môi trường sống, nguyên tắc chẩn đoán/điều trị/phòng bệnh.
-Kỹ năng: Thăm khám, chữa bệnh thông thường, xử trí cấp cứu ban đầu, thực hiện thủ thuật, chăm sóc bệnh nhân tại nhà, tổ chức chương trình y tế quốc gia, truyền thông giáo dục sức khỏe, quản lý trạm y tế xã.
-Năng lực tự chủ và chịu trách nhiệm: Thực hành nghề nghiệp theo luật pháp, tận tụy, tôn trọng đồng nghiệp, giữ gìn truyền thống ngành.
-Vị trí việc làm sau tốt nghiệp:
-Làm việc tại các cơ sở khám chữa bệnh công lập/ngoài công lập ở tất cả các tuyến.
-Có thể học liên thông lên trình độ đại học.
-Khối lượng kiến thức và thời gian học:
-Thay đổi tùy theo đối tượng tuyển sinh (trung cấp nhóm ngành sức khỏe hay không).
-Ví dụ, đối với đối tượng không thuộc nhóm ngành sức khỏe: 1635 giờ, 59 tín chỉ.
-Tổng hợp các năng lực của ngành:
-Năng lực cơ bản: Kiến thức chính trị, pháp luật, tin học, ngoại ngữ, sẵn sàng làm việc liên ngành, đạo đức nghề nghiệp, đặt an toàn người bệnh lên hàng đầu.
-Năng lực cốt lõi: Mô tả cấu trúc/chức năng cơ thể, giải thích nguyên tắc thăm khám/xét nghiệm, giải quyết vấn đề sức khỏe thông thường, dự phòng bệnh, phòng chống ô nhiễm môi trường, giáo dục sức khỏe.
-Năng lực nâng cao: Khám/chẩn đoán bệnh thông thường, xử trí cấp cứu, lập kế hoạch chăm sóc bệnh nhân, phát triển nghề nghiệp.
-Hồ sơ tuyển sinh: Tương tự như Cao đẳng Dược
+2.	Vị trí việc làm sau khi tốt nghiệp
+	Sau khi tốt nghiệp người học có năng lực đáp ứng các yêu cầu tại các vị trí việc làm của ngành, nghề bao gồm: 
+-	Kiểm nghiệm thuốc - mỹ phẩm - thực phẩm. 
+-	Đảm bảo chất lượng. 
+-	Bán lẻ thuốc. 
+-	Thực hiện công tác kho dược và vật tư y tế. 
+-	Thủ kho dược và vật tư y tế. 
+-	Kinh doanh dược phẩm. 
+-	Sản xuất thuốc. 
+-	Thực hiện công tác dược tại cơ sở y tế. 
+3.	Hồ sơ tuyển sinh:
+-	Phiếu đăng ký xét tuyển
+o	Bản sao công chứng:
+o	Bằng tốt nghiệp THPT và học bạ THPT
+o	Bằng tốt nghiệp cao đẳng, đại học và phiếu điểm của văn bằng 1
+o	Giấy khai sinh
+o	Căn cước công dân
+o	Giấy chứng nhận ưu tiên (nếu có)
+-	02 ảnh 3x4 và 02 ảnh 4x6 (ghi họ tên ngày tháng năm sinh ở mặt sau)
+-	Lệ phí xét tuyển: 30.000 đ (ba mươi ngàn đồng)/ hồ sơ
+CHƯƠNG TRÌNH ĐÀO TẠO Y SĨ TRUNG CẤP HỆ VĂN BẰNG 2
+1.	Thông tin chung
+Tên ngành, nghề: Y SĨ ĐA KHOA
+Mã ngành, nghề: 5720101
+Trình độ đào tạo: Trung cấp
+Hình thức đào tạo: Liên thông
+Đối tượng tuyển sinh: Đã tốt nghiệp trình độ Trung cấp chuyên nghiệp trở lên.
+Thời gian đào tạo: 
+•	12 tháng cho đối tượng tuyển sinh đã tốt nghiệp trung cấp nhóm ngành sức khỏe; 
+•	15 tháng cho đối tượng đối tượng tuyển sinh đã tốt nghiệp trung cấp ngoài nhóm ngành sức khỏe
+2.	Vị trí việc làm sau khi tốt nghiệp:
+	Người tốt nghiệp y sỹ trình độ trung cấp có khả năng làm việc tại các cơ sở khám chữa bệnh công lập và ngoài công lập ở tất cả các tuyến từ Trung ương đến cơ sở, cộng đồng trong toàn quốc và các cơ sở đào tạo cán bộ y tế. 
+	Sau khi tốt nghiệp, y sĩ trình độ trung cấp nếu có nguyện vọng và đủ điều kiện có thể học liên thông lên trình độ đại học theo quy định của Bộ Giáo dục và Đào tạo và Bộ Y tế.
+3.	 Hồ sơ tuyển sinh:
+-	Phiếu đăng ký xét tuyển
+o	Bản sao công chứng:
+o	Bằng tốt nghiệp THPT và học bạ THPT
+o	Bằng tốt nghiệp Trung cấp văn bằng 1 và Phiếu điểm
+o	Giấy khai sinh
+o	Căn cước công dân
+o	Giấy chứng nhận ưu tiên (nếu có)
+-	02 ảnh 3x4 và 02 ảnh 4x6 (ghi họ tên ngày tháng năm sinh ở mặt sau)
+-	Lệ phí xét tuyển: 30.000 đ (ba mươi ngàn đồng)/ hồ sơ
+4.	Lưu ý:
+-	Ngành y sỹ đa khoa chưa có hệ Cao đẳng. Hãy theo dõi website để biết thêm thông tin
 Lưu ý: 
 - Các ngành thuộc nhóm sức khỏe: Dược, Điều dưỡng, Hộ Sinh, Y sỹ đa khoa, Kỹ thuật viên xét nghiệm chỉ xét tuyển học sinh tốt nghiệp THPT (lớp 12) hoặc tương đương.
 - Ngành Y sỹ đa khoa hiện tại chỉ đào tạo trình dộ trung cấp, hệ cao đẳng sẽ sớm được đưa vào chương trình đào tạo của trường Cao đẳng Bình Phước; Nếu bạn thực sự quan tâm ngành này xin vui lòng theo dõi trên website của nhà trường, chúng tôi sẽ liên tục cập nhật các chương trình đào tạo tại đây
