@@ -16,7 +16,7 @@ try:
                 <a href="https://cdbp.edu.vn" target="_blank">Website</a> |
                 <a href="https://zalo.me/caodangbinhphuoc" target="_blank">Zalo</a> |
                 <a href="https://facebook.com/truongcaodangbp" target="_blank">Fanpage</a> |
-                <a href="https://tiktok.com/@ilovebpc1111?lang=vi-VN" target="_blank">Tiktok</a>
+                <a href="https://tiktok.com/@cdbp93" target="_blank">Tiktok</a>
             </div>
             """,
             unsafe_allow_html=True
