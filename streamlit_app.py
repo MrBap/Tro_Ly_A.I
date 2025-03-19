@@ -10,28 +10,33 @@ def rfile(name_file):
 st.markdown(
     """
     <style>
+        /* Đảm bảo menu hiển thị trên cùng */
         .menu {
             background-color: #007bff; /* Màu xanh dương */
             padding: 10px 0;
             text-align: center;
-            position: fixed; /* Cố định ở đầu trang */
+            position: fixed;
             top: 0;
             left: 0;
             width: 100%;
-            z-index: 1000; /* Đảm bảo menu nằm trên cùng */
+            z-index: 1000;
         }
         .menu a {
             color: white;
             text-decoration: none;
             font-family: 'Arial', sans-serif;
             font-size: 16px;
-            margin: 0 20px; /* Khoảng cách giữa các mục */
+            margin: 0 20px;
             padding: 10px 15px;
             border-radius: 5px;
-            transition: background-color 0.3s; /* Hiệu ứng chuyển màu */
+            transition: background-color 0.3s;
         }
         .menu a:hover {
-            background-color: #0056b3; /* Màu khi hover */
+            background-color: #0056b3;
+        }
+        /* Đảm bảo nội dung không bị che bởi menu */
+        .main-content {
+            padding-top: 60px;
         }
     </style>
     <div class="menu">
@@ -44,9 +49,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Thêm khoảng cách để nội dung không bị che bởi menu cố định
-st.markdown("<div style='padding-top: 60px;'></div>", unsafe_allow_html=True)
-
 # Hiển thị logo
 try:
     col1, col2, col3 = st.columns([1, 3, 4])
@@ -55,10 +57,10 @@ try:
 except:
     pass
 
-# Tiêu đề
+# Tiêu đề (giảm kích thước từ 36px xuống 28px)
 title_content = rfile("00.xinchao.txt")
 st.markdown(
-    f"""<h1 style="text-align: center; font-size: 36px; color: #007bff;">{title_content}</h1>""",
+    f"""<h1 style="text-align: center; font-size: 28px; color: #007bff;">{title_content}</h1>""",
     unsafe_allow_html=True
 )
 
@@ -105,25 +107,31 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-for message in st.session_state.messages:
-    if message["role"] == "assistant":
-        st.markdown(f'<div class="assistant">{message["content"]}</div>', unsafe_allow_html=True)
-    elif message["role"] == "user":
-        st.markdown(f'<div class="user">{message["content"]}</div>', unsafe_allow_html=True)
+# Bao bọc nội dung chính trong div để áp dụng padding-top
+with st.container():
+    st.markdown('<div class="main-content">', unsafe_allow_html=True)
+    
+    for message in st.session_state.messages:
+        if message["role"] == "assistant":
+            st.markdown(f'<div class="assistant">{message["content"]}</div>', unsafe_allow_html=True)
+        elif message["role"] == "user":
+            st.markdown(f'<div class="user">{message["content"]}</div>', unsafe_allow_html=True)
 
-if prompt := st.chat_input("Bạn nhập nội dung cần trao đổi ở đây nhé?"):
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    st.markdown(f'<div class="user">{prompt}</div>', unsafe_allow_html=True)
+    if prompt := st.chat_input("Bạn nhập nội dung cần trao đổi ở đây nhé?"):
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        st.markdown(f'<div class="user">{prompt}</div>', unsafe_allow_html=True)
 
-    response = ""
-    stream = client.chat.completions.create(
-        model=rfile("module_chatgpt.txt").strip(),
-        messages=[{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
-        stream=True,
-    )
-    for chunk in stream:
-        if chunk.choices:
-            response += chunk.choices[0].delta.content or ""
+        response = ""
+        stream = client.chat.completions.create(
+            model=rfile("module_chatgpt.txt").strip(),
+            messages=[{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
+            stream=True,
+        )
+        for chunk in stream:
+            if chunk.choices:
+                response += chunk.choices[0].delta.content or ""
 
-    st.markdown(f'<div class="assistant">{response}</div>', unsafe_allow_html=True)
-    st.session_state.messages.append({"role": "assistant", "content": response})
+        st.markdown(f'<div class="assistant">{response}</div>', unsafe_allow_html=True)
+        st.session_state.messages.append({"role": "assistant", "content": response})
+    
+    st.markdown('</div>', unsafe_allow_html=True)
