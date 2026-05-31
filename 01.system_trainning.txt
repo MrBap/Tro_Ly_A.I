@@ -92,7 +92,7 @@ II. TUYỂN SINH KHỐI GIÁO DỤC NGHỀ NGHIỆP NĂM 2026
 
 | Ngành đào tạo | Mã ngành | Chỉ tiêu | Điều kiện |
 |---------------|----------|----------|-----------|
-| Giáo dục Mầm non | 51140201 | 48 | THPT + Thi năng khiếu |
+| Giáo dục Mầm non | 51140201 | 200 | THPT + Thi năng khiếu |
 | Điện công nghiệp | 6520227 | - | THPT |
 | Điện công nghiệp liên thông | 6520227 | 20 | TC Điện CN |
 | Điện tử công nghiệp | 6520225 | - | THPT |
