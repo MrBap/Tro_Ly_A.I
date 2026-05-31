@@ -214,7 +214,7 @@ III. TUYỂN SINH CAO ĐẲNG NGÀNH GIÁO DỤC MẦM NON
 ===============================================
 
 1. Mã ngành: 51140201
-2. Chỉ tiêu: 48
+2. Chỉ tiêu: 200
 3. Đối tượng: Thí sinh đã tốt nghiệp THPT
 4. Phương thức tuyển sinh: Xét tuyển + Thi tuyển năng khiếu
 
